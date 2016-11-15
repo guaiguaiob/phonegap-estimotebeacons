@@ -13,4 +13,6 @@
     <content src="index.html" />
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
+	
+    <plugin name="cordova-plugin-estimote" spec="0.8.0" source="pgb" />
 </widget>
